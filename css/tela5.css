@@ -15,6 +15,10 @@ header{
     color: white;
     text-align: center;
     padding: 30px;
+
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
 header h1{
